@@ -109,13 +109,12 @@ All nine conditions were tested using Wokwi and verified through the Blynk dashb
 ## Project Links
 
 ### Wokwi Simulation
-[Add final integrated Wokwi project link]
+ https://wokwi.com/projects/473061276088437761
 
 ### Blynk Dashboard
-[Add Blynk dashboard/share link if available]
+https://blynk.cloud/dashboard/706483/global/devices/215401/organization/706483/devices/2245426/dashboard
 
-### Demo Video
-[Add demo video link]
+
 
 ## Author
 
